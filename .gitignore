@@ -1,0 +1,26 @@
+# executables
+*.exe
+*.out
+*.app
+
+# object files
+*.o
+*.obj
+
+# libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# build folders
+build/
+bin/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
